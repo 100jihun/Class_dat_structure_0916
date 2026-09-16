@@ -72,5 +72,4 @@ Array<Array<int>> emptyArray2(int row, int col) {
     return ary2;
 }
  
-//2
 #endif // COOKHEADER_H
